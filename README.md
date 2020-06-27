@@ -1,2 +1,2 @@
-# -X360-GPD-MOD-MENU-COD4
+GPD MOD MENU
 Call of duty 4 GPD Mod Menu (Offline)
